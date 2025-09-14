@@ -2,7 +2,6 @@
 
 Computer Science student at Misr for science & technology<br/>
 I create theme android apps consistent <br/>
-[Instagram](https://www.instagram.com/21_abdelrahman/)<br/>
 
 
 ## 🌐 Socials:
