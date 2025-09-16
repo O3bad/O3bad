@@ -12,7 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=O3bad&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📊 Codeforces stats:
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=podywaleed28)
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=podywaleed28)](https://codeforces.com/profile/podywaleed28)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
